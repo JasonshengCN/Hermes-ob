@@ -1,0 +1,9 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Obsidian缓存 (但保留配置)
+.obsidian/workspace.json
+.obsidian/cache/

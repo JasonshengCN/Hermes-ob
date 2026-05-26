@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "05-资产",
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "tabSize": 2,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}
